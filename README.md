@@ -1,1 +1,1 @@
-# SQL-Tableau-project
+# Sales Anslytics SQL Tableau project
