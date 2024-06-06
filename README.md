@@ -1,1 +1,1 @@
-# Sales Anslytics SQL Tableau project
+# Sales Insights and Data Analysis of a Hardware Company
