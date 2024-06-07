@@ -1,7 +1,7 @@
 # Sales Insights and Data Analysis of a Hardware Company
 
 # Problem Statement :
-In This project Created Tableau Dashboards which help to generate important sales insight. this dashboards visualize the data on the basis of sales, profit, customer type and region.
+In This project created Tableau Dashboards which help to generate important sales insight. this dashboards visualize the data on the basis of sales, profit, customer type and region.
 
 # Used Tools:
 - Mysql
