@@ -55,9 +55,15 @@ and transactions.market_code="Mark001";`
 
 
 
+# Tableau Dashboards:
 
+Built the Interactive Dashboard in Tableau Desktop for data visualization. With this dashboard we can analyse the sales and profit.
 
 ![T dashbord 1](https://github.com/nild-ds/SQL-Tableau-project/assets/167008575/646165f3-103b-4358-ab1f-4bcaef8bc50a)
+
+
+
+
 
 
 ![T dashbord 2](https://github.com/nild-ds/SQL-Tableau-project/assets/167008575/492e340a-07a7-4867-b49f-2181f9979c6a)
